@@ -1,6 +1,19 @@
 # DSC3_Proyecto
 Este repositorio contiene la información necesaria para el trabajo desarrollado en el marco del proyecto final de Data Science 3 Coder House Noviembre 2026
 
+# DATASET
+Se compone de 8000 registros y tiene dos campos / columnas: TEXT y LABEL
+TEXT: contiene el texto de la noticia
+LABEL: 4 categorías World, Sports, Business, Sci_Tech
+El dataset contiene una clasificación de la temática de la noticia analizada
+Nombre del dataset: AG News
+Idioma: inglés
+Fuente: datos provistos por el curso con el objetivo de aprendizaje
+AG News, corpus de AG (Antonio Gulli), de uso académico estándar (Zhang et al., 2015). Muestra balanceada y recortada por la cátedra.
+Formato: dos archivos CSV (ag_news_train.csv y ag_news_test.csv)
+
+
+
 # Librerías requeridas
 # Python 3.13.18
 scikit-learn==1.6.1
